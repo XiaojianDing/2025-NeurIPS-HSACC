@@ -14,8 +14,7 @@ scikit-learn>=0.22.0
 
 munkres>=1.1.4
 ## Hyperparameter Settings
-In the code, we have provided hyperparameter settings for the Caltech101-20, NoisyMNIST, and LandUse_21 datasets.  
-Below, we additionally include the hyperparameter configurations for the Hdigit and 100leaves datasets.
+In the code, we have provided hyperparameter settings for the Caltech101-20, NoisyMNIST, and LandUse_21 datasets. Below, we additionally include the hyperparameter configurations for the Hdigit and 100leaves datasets.
 
 Hdigit
 
