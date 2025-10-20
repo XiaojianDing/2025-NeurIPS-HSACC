@@ -34,4 +34,16 @@ The code includes example implementations for both two-view and multi-view setti
 
 You can adjust the missing rate for the dataset by using the `--missing_rate` argument. For example, `--missing_rate 0.5` sets 50% of the data as missing. This allows you to run experiments under different levels of missing data.
 ## Citation
-If you find our work useful in your research, please consider citing:
+If you find HSACC useful in your research, please consider giving us a star and citing it with the following BibTeX entry:
+
+```bibtex
+@misc{ding2025incompletemultiviewclusteringhierarchical,
+  title={Incomplete Multi-view Clustering via Hierarchical Semantic Alignment and Cooperative Completion}, 
+  author={Xiaojian Ding and Lin Zhao and Xian Li and Xiaoying Zhu},
+  year={2025},
+  eprint={2510.13887},
+  archivePrefix={arXiv},
+  primaryClass={eess.IV},
+  url={https://arxiv.org/abs/2510.13887}
+}
+
