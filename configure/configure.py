@@ -59,7 +59,7 @@ def get_default_config(data_name):
                 lambda1=0.1,
                 lambda2=0.1,
                 lambda3=5,#5
-                lambda4=10,
+                lambda4=15,
                 class_num=10,
                 kernel_mul=0.1,
                 kernel_num=6,
