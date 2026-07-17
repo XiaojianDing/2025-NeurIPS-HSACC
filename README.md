@@ -37,13 +37,16 @@ You can adjust the missing rate for the dataset by using the `--missing_rate` ar
 If you find HSACC useful in your research, please consider giving us a star and citing it with the following BibTeX entry:
 
 ```bibtex
-@misc{ding2025incompletemultiviewclusteringhierarchical,
-  title={Incomplete Multi-view Clustering via Hierarchical Semantic Alignment and Cooperative Completion}, 
-  author={Xiaojian Ding and Lin Zhao and Xian Li and Xiaoying Zhu},
-  year={2025},
-  eprint={2510.13887},
-  archivePrefix={arXiv},
-  primaryClass={eess.IV},
-  url={https://arxiv.org/abs/2510.13887}
+@inproceedings{NEURIPS2025_4b2a917e,
+ author = {Ding, Xiaojian and Zhao, Lin and Li, Xian and Zhu, Xiaoying},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {D. Belgrave and C. Zhang and H. Lin and R. Pascanu and P. Koniusz and M. Ghassemi and N. Chen},
+ pages = {52175--52195},
+ publisher = {Curran Associates, Inc.},
+ title = {Incomplete Multi-view Clustering via Hierarchical Semantic Alignment and Cooperative Completion},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2025/file/4b2a917e30e1bb1aff055b4d8c6c081c-Paper-Conference.pdf},
+ volume = {38},
+ year = {2025}
 }
+
 
